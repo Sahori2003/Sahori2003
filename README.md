@@ -1,4 +1,3 @@
-@@ -1,60 +1,60 @@
 <h1 align="center">Hey there, I'm Raa'd 👋</h1>
 
 <p align="center">
