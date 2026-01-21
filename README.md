@@ -35,6 +35,10 @@
   <a href="mailto:raad3sahori@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://sahori2003.github.io/my-portfolio/" target="_blank">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
 </p>
 
 ---
